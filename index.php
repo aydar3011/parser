@@ -137,7 +137,7 @@ Cам парсинг. Создаем массивы tm branches парсим с 
 $atm = array();
 $branches = array();
 $regnum = "0061";
-$apiKey = "AIzaSyByGvQp_-zNDtOazqD7Hw5DT4XRQ5UzrvE";
+$apiKey = "";
 for ($i = 0; $i < count($selectOptions); ++$i){
     $startPos = 0;
     $endPos = $startPos + 20;
